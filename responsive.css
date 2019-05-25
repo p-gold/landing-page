@@ -1,0 +1,9 @@
+/* @media screen and (max-width: 760px) {
+    /*styles for smaller screens in here*/
+    } */
+
+@media screen and (min-width: 2000px){
+    body{
+        display: none;
+    }
+}
